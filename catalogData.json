@@ -1,46 +1,46 @@
 [
   {
-    "id_product": 101,
+    "id_product": 1001,
     "product_name": "Ноутбук HP",
     "price": 45600
   },
   {
-    "id_product": 102,
+    "id_product": 1002,
     "product_name": "Ноутбук Lenovo",
     "price": 38690
   },
   {
-    "id_product": 103,
+    "id_product": 1003,
     "product_name": "Ноутбук Asus",
     "price": 58700
   },
   {
-    "id_product": 104,
+    "id_product": 1004,
     "product_name": "Мышка Genius",
     "price": 600
   },
   {
-    "id_product": 105,
+    "id_product": 1005,
     "product_name": "Мышка Asus",
     "price": 2300
   },
   {
-    "id_product": 106,
+    "id_product": 1006,
     "product_name": "Мышка Logitech",
     "price": 1800
   },
   {
-    "id_product": 107,
+    "id_product": 1007,
     "product_name": "Клавиатура",
     "price": 500
   },
   {
-    "id_product": 108,
+    "id_product": 1008,
     "product_name": "Клавиатура Asus",
     "price": 3650
   },
   {
-    "id_product": 109,
+    "id_product": 1009,
     "product_name": "Клавиатура Logitech",
     "price": 2560
   }
