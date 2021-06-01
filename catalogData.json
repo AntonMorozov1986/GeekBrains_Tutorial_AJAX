@@ -43,5 +43,8 @@
     "id_product": 1059,
     "product_name": "Клавиатура Logitech",
     "price": 2560
+  },
+  {
+    "something": 'something'
   }
 ]
